@@ -1,0 +1,13 @@
+{
+  "name": "React Workshop - 1",
+  "version": "1.0.0",
+  "description": "Demo project",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/zknpl2y6zp",
+  "main": "index.js",
+  "dependencies": {
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "prop-types": "15.6.0"
+  }
+}
