@@ -1,4 +1,4 @@
-# Una intro a React
+# React 101
 
 ![React](preview.jpg)
 
